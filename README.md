@@ -1,2 +1,2 @@
 ### Learning Python for Data Analysis and Visualization
-course notes on Udemy
+notes of the course on Udemy
